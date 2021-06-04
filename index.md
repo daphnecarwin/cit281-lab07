@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Lab 08
+Purpose of the Lab:
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-lab07/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Create your own GitHub organization for the CIT Minor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Create your first GitHub repository
 
-### Markdown
+Clone your GitHub repository to your local system
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create lab JavaScript file, and initialize folder as a Node.js folder
 
-```markdown
-Syntax highlighted code block
+Update and commit lab JavaScript file to practice with error handling
 
-# Header 1
-## Header 2
-### Header 3
+Push your changes to GitHub
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Technologies Used for the Lab:
+Node.js, Github, terminal
 
-**Bold** and _Italic_ and `Code` text
+What I Learned From the Lab:
+I had previously had experience with Github but something new I learned from this lab was connecting it to my local git, and I found that very interesting. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-lab07/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
